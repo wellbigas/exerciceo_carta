@@ -1,2 +1,2 @@
-# exerciceo_carta
+# exercicio_carta
 criar uma carta
